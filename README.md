@@ -1,1 +1,1 @@
-# Maths---Probability-Distributions-in-C
+# Probability Distributions Calculator
