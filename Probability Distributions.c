@@ -609,7 +609,7 @@ void main()
 								}
 								break;			
 			}
-
+			system("pause");
 }
 /* END OF MAIN */
 
